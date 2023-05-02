@@ -1,0 +1,182 @@
+/* screen - 6-2-menu-datos-desglosados */
+
+.x6-2-menu-datos-desglosados {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x6-2-menu-datos-desglosados .overlap-group1 {
+  height: 1103px;
+  margin-left: -339px;
+  margin-top: -116px;
+  position: relative;
+  width: 1116px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-178 {
+  height: 910px;
+  left: 197px;
+  position: absolute;
+  top: 191px;
+  width: 919px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-179 {
+  height: 535px;
+  left: 361px;
+  position: absolute;
+  top: 99px;
+  width: 557px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-180 {
+  height: 848px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 815px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-181 {
+  height: 605px;
+  left: 320px;
+  position: absolute;
+  top: 498px;
+  width: 638px;
+}
+
+.x6-2-menu-datos-desglosados .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  left: 496px;
+  overflow: hidden;
+  padding: 1.5px 12px;
+  position: absolute;
+  top: 702px;
+  width: 45px;
+}
+
+.x6-2-menu-datos-desglosados .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+}
+
+.x6-2-menu-datos-desglosados .seleccione-el-tipo-d {
+  left: 418px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 258px;
+  width: 195px;
+}
+
+.x6-2-menu-datos-desglosados .group-71 {
+  background-color: var(--white);
+  border-radius: 9.3px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 423px;
+  position: absolute;
+  top: 394px;
+  width: 189px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-114 {
+  border-radius: 9.3px;
+  height: 47px;
+  left: 423px;
+  top: 457px;
+  width: 189px;
+}
+
+.x6-2-menu-datos-desglosados .actividades {
+  left: 451px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 403px;
+  width: 123px;
+}
+
+.x6-2-menu-datos-desglosados .overlap-group {
+  height: 47px;
+  left: 421px;
+  position: absolute;
+  top: 519px;
+  width: 194px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-115 {
+  border-radius: 9.3px;
+  height: 47px;
+  left: 2px;
+  top: 0;
+  width: 189px;
+}
+
+.x6-2-menu-datos-desglosados .alertas-de-riesgo {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 194px;
+}
+
+.x6-2-menu-datos-desglosados .canalizaciones {
+  left: 431px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 465px;
+  width: 171px;
+}
+
+.x6-2-menu-datos-desglosados .ver-datos {
+  left: 538px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 133px;
+  width: 182px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-172 {
+  border-radius: 29px;
+  height: 87px;
+  left: 361px;
+  top: 83px;
+  width: 96px;
+}
+
+.x6-2-menu-datos-desglosados .men {
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  position: absolute;
+}

@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-7-datos */
+
+.fondo-estatico-7-datos {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-7-datos .ellipse-container {
+  height: 1103px;
+  margin-left: -339px;
+  margin-top: -116px;
+  position: relative;
+  width: 1116px;
+}
+
+.fondo-estatico-7-datos .ellipse-178 {
+  height: 910px;
+  left: 197px;
+  position: absolute;
+  top: 191px;
+  width: 919px;
+}
+
+.fondo-estatico-7-datos .ellipse-179 {
+  height: 535px;
+  left: 361px;
+  position: absolute;
+  top: 99px;
+  width: 557px;
+}
+
+.fondo-estatico-7-datos .ellipse-180 {
+  height: 848px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 815px;
+}
+
+.fondo-estatico-7-datos .ellipse-181 {
+  height: 605px;
+  left: 320px;
+  position: absolute;
+  top: 498px;
+  width: 638px;
+}

@@ -1,0 +1,125 @@
+/* screen - 2-0-registro-usuario-ancestral */
+
+.x2-0-registro-usuario-ancestral {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x2-0-registro-usuario-ancestral .overlap-group {
+  height: 1452px;
+  margin-left: -306px;
+  margin-top: -242px;
+  position: relative;
+  width: 1121px;
+}
+
+.x2-0-registro-usuario-ancestral .ellipse-184 {
+  height: 566px;
+  left: 338px;
+  position: absolute;
+  top: 195px;
+  width: 398px;
+}
+
+.x2-0-registro-usuario-ancestral .ellipse-182 {
+  height: 538px;
+  left: 173px;
+  position: absolute;
+  top: 403px;
+  width: 354px;
+}
+
+.x2-0-registro-usuario-ancestral .ellipse-183 {
+  height: 970px;
+  left: 153px;
+  position: absolute;
+  top: 482px;
+  width: 968px;
+}
+
+.x2-0-registro-usuario-ancestral .ellipse-185 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.x2-0-registro-usuario-ancestral .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  left: 459px;
+  overflow: hidden;
+  padding: 1.5px 12px;
+  position: absolute;
+  top: 802px;
+  width: 45px;
+}
+
+.x2-0-registro-usuario-ancestral .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+}
+
+.x2-0-registro-usuario-ancestral .rectangle-192 {
+  border-radius: 20px;
+  height: 386px;
+  left: 353px;
+  top: 369px;
+  width: 258px;
+}
+
+.x2-0-registro-usuario-ancestral .recuerde-que-el-regi {
+  left: 388px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 392px;
+  width: 195px;
+}
+
+.x2-0-registro-usuario-ancestral .place {
+  left: 471px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 182px;
+}
+
+.x2-0-registro-usuario-ancestral .rectangle-172 {
+  border-radius: 29px;
+  height: 87px;
+  left: 328px;
+  top: 209px;
+  width: 96px;
+}
+
+.x2-0-registro-usuario-ancestral .men {
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x2-0-registro-usuario-ancestral .rectangle {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  position: absolute;
+}

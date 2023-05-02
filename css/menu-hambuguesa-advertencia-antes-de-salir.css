@@ -1,0 +1,112 @@
+/* screen - menu-hambuguesa-advertencia-antes-de-salir */
+
+.menu-hambuguesa-advertencia-antes-de-salir {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .overlap-group {
+  height: 1291px;
+  margin-left: -338px;
+  margin-top: -418px;
+  position: relative;
+  width: 1099px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .ellipse-178 {
+  height: 921px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 912px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .ellipse-179 {
+  height: 566px;
+  left: 161px;
+  position: absolute;
+  top: 725px;
+  width: 398px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .ellipse-180 {
+  height: 485px;
+  left: 439px;
+  position: absolute;
+  top: 642px;
+  width: 568px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .ellipse-181 {
+  height: 631px;
+  left: 565px;
+  position: absolute;
+  top: 170px;
+  width: 534px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .rectangle-191 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 284px;
+  left: 389px;
+  position: absolute;
+  top: 576px;
+  width: 258px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 37px;
+  left: 524px;
+  overflow: hidden;
+  padding: 8.8px 17.5px;
+  position: absolute;
+  top: 963px;
+  width: 103px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .button-primary-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 37px;
+  left: 406px;
+  overflow: hidden;
+  padding: 8.8px 21.5px;
+  position: absolute;
+  top: 963px;
+  width: 103px;
+}
+
+.menu-hambuguesa-advertencia-antes-de-salir .est-segura-de-que {
+  color: var(--black);
+  font-family: var(--font-family-calibri-regular);
+  font-size: 22.2px;
+  font-weight: 400;
+  left: 437px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 611px;
+  width: 162px;
+}

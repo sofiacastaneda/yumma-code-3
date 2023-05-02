@@ -1,0 +1,126 @@
+/* screen - 0-3-login-2-confirmacion-visual */
+
+.x0-3-login-2-confirmacion-visual {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group {
+  height: 549px;
+  margin-left: -285px;
+  margin-top: -323px;
+  position: relative;
+  width: 560px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-188 {
+  background-color: var(--blue-ribbon-2);
+  left: 144px;
+  top: 0;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-190 {
+  background-color: var(--cardinal-pink);
+  left: 0;
+  top: 118px;
+}
+
+.x0-3-login-2-confirmacion-visual .inicio-de-sesin-exitoso {
+  color: var(--black);
+  font-family: var(--font-family-calibri-regular);
+  font-size: 18.5px;
+  font-weight: 400;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 522px;
+  width: 176px;
+}
+
+.x0-3-login-2-confirmacion-visual .yolima-mosquera {
+  align-self: center;
+  color: var(--eerie-black);
+  font-family: var(--font-family-calibri-bold);
+  font-size: 24.8px;
+  font-weight: 700;
+  letter-spacing: 0.12px;
+  line-height: normal;
+  margin-left: 13.0px;
+  margin-top: 4px;
+  min-height: 30px;
+  min-width: 133px;
+  text-align: center;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group2 {
+  align-self: flex-end;
+  height: 675px;
+  margin-right: -319.48px;
+  margin-top: 44px;
+  position: relative;
+  width: 587px;
+}
+
+.x0-3-login-2-confirmacion-visual .overlap-group1 {
+  height: 623px;
+  left: 0;
+  position: absolute;
+  top: 52px;
+  width: 587px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-189 {
+  background-color: var(--casal);
+  left: 0;
+  top: 213px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse-187 {
+  background-color: var(--fuel-yellow);
+  left: 177px;
+  top: 0;
+}
+
+.x0-3-login-2-confirmacion-visual .button-primary {
+  align-items: flex-start;
+  background-color: var(--blue-2);
+  border-radius: 9.72px;
+  display: flex;
+  height: 38px;
+  left: 8px;
+  overflow: hidden;
+  padding: 8.2px 67px;
+  position: absolute;
+  top: 167px;
+  width: 175px;
+}
+
+.x0-3-login-2-confirmacion-visual .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.x0-3-login-2-confirmacion-visual .mesa-de-trabajo-12x-1 {
+  height: 166px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.x0-3-login-2-confirmacion-visual .ellipse {
+  border-radius: 205.24px;
+  height: 410px;
+  position: absolute;
+  width: 410px;
+}

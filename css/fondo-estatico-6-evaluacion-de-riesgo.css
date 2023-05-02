@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-6-evaluacion-de-riesgo */
+
+.fondo-estatico-6-evaluacion-de-riesgo {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-6-evaluacion-de-riesgo .ellipse-container {
+  height: 1025px;
+  margin-left: -167px;
+  margin-top: -235.0px;
+  position: relative;
+  width: 968px;
+}
+
+.fondo-estatico-6-evaluacion-de-riesgo .ellipse-181 {
+  height: 538px;
+  left: 17px;
+  position: absolute;
+  top: 163px;
+  width: 354px;
+}
+
+.fondo-estatico-6-evaluacion-de-riesgo .ellipse-178 {
+  height: 970px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 968px;
+}
+
+.fondo-estatico-6-evaluacion-de-riesgo .ellipse-179 {
+  height: 566px;
+  left: 38px;
+  position: absolute;
+  top: 459px;
+  width: 398px;
+}
+
+.fondo-estatico-6-evaluacion-de-riesgo .ellipse-180 {
+  height: 485px;
+  left: 268px;
+  position: absolute;
+  top: 459px;
+  width: 568px;
+}

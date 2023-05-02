@@ -1,0 +1,149 @@
+/* screen - 6-0-opciones-tipos-de-datos */
+
+.x6-0-opciones-tipos-de-datos {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x6-0-opciones-tipos-de-datos .overlap-group {
+  height: 1103px;
+  margin-left: -339px;
+  margin-top: -116.0px;
+  position: relative;
+  width: 1116px;
+}
+
+.x6-0-opciones-tipos-de-datos .ellipse-178 {
+  height: 910px;
+  left: 197px;
+  position: absolute;
+  top: 191px;
+  width: 919px;
+}
+
+.x6-0-opciones-tipos-de-datos .ellipse-179 {
+  height: 535px;
+  left: 361px;
+  position: absolute;
+  top: 99px;
+  width: 557px;
+}
+
+.x6-0-opciones-tipos-de-datos .ellipse-180 {
+  height: 848px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 815px;
+}
+
+.x6-0-opciones-tipos-de-datos .ellipse-181 {
+  height: 605px;
+  left: 320px;
+  position: absolute;
+  top: 498px;
+  width: 638px;
+}
+
+.x6-0-opciones-tipos-de-datos .rectangle-113 {
+  border-radius: 9.3px;
+  height: 61px;
+  left: 399px;
+  top: 400px;
+  width: 240px;
+}
+
+.x6-0-opciones-tipos-de-datos .datos-totales {
+  left: 406px;
+  top: 416px;
+  width: 222px;
+}
+
+.x6-0-opciones-tipos-de-datos .rectangle-178 {
+  border-radius: 9.3px;
+  height: 61px;
+  left: 399px;
+  top: 561px;
+  width: 240px;
+}
+
+.x6-0-opciones-tipos-de-datos .datos-cruzados {
+  left: 406px;
+  top: 577px;
+  width: 222px;
+}
+
+.x6-0-opciones-tipos-de-datos .rectangle-177 {
+  border-radius: 9.3px;
+  height: 61px;
+  left: 399px;
+  top: 478px;
+  width: 240px;
+}
+
+.x6-0-opciones-tipos-de-datos .datos-desglosados {
+  left: 403px;
+  top: 496px;
+  width: 232px;
+}
+
+.x6-0-opciones-tipos-de-datos .title {
+  color: var(--white);
+  font-family: var(--font-family-calibri-regular);
+  font-size: 27px;
+  font-weight: 400;
+  left: 409px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 297px;
+  width: 221px;
+}
+
+.x6-0-opciones-tipos-de-datos .rectangle-172 {
+  border-radius: 29px;
+  height: 87px;
+  left: 361px;
+  top: 83px;
+  width: 96px;
+}
+
+.x6-0-opciones-tipos-de-datos .men {
+  left: 363px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x6-0-opciones-tipos-de-datos .ver-datos {
+  left: 538px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 133px;
+  width: 182px;
+}
+
+.x6-0-opciones-tipos-de-datos .datos {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+}
+
+.x6-0-opciones-tipos-de-datos .rectangle {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  position: absolute;
+}

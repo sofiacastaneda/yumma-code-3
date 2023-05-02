@@ -1,0 +1,99 @@
+/* screen - 3-0-1-riesgo-usuario-inexistente */
+
+.x3-0-1-riesgo-usuario-inexistente {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .overlap-group {
+  height: 1025px;
+  margin-left: -167px;
+  margin-top: -235.0px;
+  position: relative;
+  width: 968px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .ellipse-181 {
+  height: 538px;
+  left: 17px;
+  position: absolute;
+  top: 163px;
+  width: 354px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .ellipse-178 {
+  height: 970px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 968px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .ellipse-179 {
+  height: 566px;
+  left: 38px;
+  position: absolute;
+  top: 459px;
+  width: 398px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .ellipse-180 {
+  height: 485px;
+  left: 268px;
+  position: absolute;
+  top: 459px;
+  width: 568px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .no-se-puede-hacer-la {
+  left: 253px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 195px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .rectangle-179 {
+  top: 675px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .volver-al-men-principal {
+  left: 278px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 689px;
+  width: 144px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .rectangle-180 {
+  top: 531px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .hacer-registro {
+  left: 278px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 545px;
+  width: 144px;
+}
+
+.x3-0-1-riesgo-usuario-inexistente .rectangle {
+  background-color: var(--white);
+  border-radius: 9.33px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 82px;
+  left: 264px;
+  position: absolute;
+  width: 172px;
+}

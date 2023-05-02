@@ -1,0 +1,108 @@
+/* screen - 2-0-1-registro-usuario-existente */
+
+.x2-0-1-registro-usuario-existente {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x2-0-1-registro-usuario-existente .overlap-group {
+  height: 1452px;
+  margin-left: -306px;
+  margin-top: -242px;
+  position: relative;
+  width: 1121px;
+}
+
+.x2-0-1-registro-usuario-existente .ellipse-184 {
+  height: 566px;
+  left: 338px;
+  position: absolute;
+  top: 195px;
+  width: 398px;
+}
+
+.x2-0-1-registro-usuario-existente .ellipse-182 {
+  height: 538px;
+  left: 173px;
+  position: absolute;
+  top: 403px;
+  width: 354px;
+}
+
+.x2-0-1-registro-usuario-existente .ellipse-183 {
+  height: 970px;
+  left: 153px;
+  position: absolute;
+  top: 482px;
+  width: 968px;
+}
+
+.x2-0-1-registro-usuario-existente .ellipse-185 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.x2-0-1-registro-usuario-existente .rectangle-191 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 284px;
+  left: 357px;
+  position: absolute;
+  top: 397px;
+  width: 258px;
+}
+
+.x2-0-1-registro-usuario-existente .esta-persona-ya-exis {
+  left: 407px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 447px;
+  width: 146px;
+}
+
+.x2-0-1-registro-usuario-existente .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 37px;
+  left: 492px;
+  overflow: hidden;
+  padding: 8.8px 17.5px;
+  position: absolute;
+  top: 758px;
+  width: 103px;
+}
+
+.x2-0-1-registro-usuario-existente .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.x2-0-1-registro-usuario-existente .button-primary-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 37px;
+  left: 374px;
+  overflow: hidden;
+  padding: 8.8px 21.5px;
+  position: absolute;
+  top: 758px;
+  width: 103px;
+}

@@ -1,0 +1,218 @@
+/* screen - 0-4-menu-de-acciones-de-la-app */
+
+.x0-4-menu-de-acciones-de-la-app {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group6 {
+  height: 1067px;
+  margin-left: -237px;
+  margin-top: -138.0px;
+  position: relative;
+  width: 919px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .ellipse-178 {
+  height: 910px;
+  left: 0;
+  position: absolute;
+  top: 157px;
+  width: 919px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .ellipse-179 {
+  height: 535px;
+  left: 297px;
+  position: absolute;
+  top: 268px;
+  width: 557px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .ellipse-180 {
+  height: 687px;
+  left: 0;
+  position: absolute;
+  top: 105px;
+  width: 654px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .ellipse-181 {
+  height: 637px;
+  left: 324px;
+  position: absolute;
+  top: 0;
+  width: 558px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .title {
+  left: 324px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 255px;
+  width: 186px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 47px;
+  left: 319px;
+  min-width: 189px;
+  padding: 8.8px 8.6px;
+  position: absolute;
+  top: 311px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .seguimiento {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+  text-align: center;
+  width: 171px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 47px;
+  left: 319px;
+  min-width: 189px;
+  padding: 9.9px 30.6px;
+  position: absolute;
+  top: 374px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+  text-align: center;
+  width: 123px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group2 {
+  height: 47px;
+  left: 317px;
+  position: absolute;
+  top: 436px;
+  width: 194px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .rectangle-115 {
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 189px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .evaluacin-de-riesgo {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 194px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 47px;
+  left: 319px;
+  min-width: 189px;
+  padding: 9.2px 32.6px;
+  position: absolute;
+  top: 499px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .canalizacin {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+  text-align: center;
+  width: 123px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 47px;
+  left: 321px;
+  min-width: 189px;
+  padding: 8.0px 9.6px;
+  position: absolute;
+  top: 598px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .acciones-colectivas {
+  color: var(--black);
+  font-family: var(--font-family-calibri-regular);
+  font-size: 21.6px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+  text-align: center;
+  width: 169px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 47px;
+  left: 321px;
+  min-width: 189px;
+  padding: 10.2px 31.6px;
+  position: absolute;
+  top: 660px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .ver-datos {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.x0-4-menu-de-acciones-de-la-app .men-principal {
+  color: var(--white);
+  font-family: var(--font-family-calibri-bold);
+  font-size: 24px;
+  font-weight: 700;
+  left: 332px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 224px;
+  width: 206px;
+}

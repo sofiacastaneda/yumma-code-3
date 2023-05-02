@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-2-acciones-colectivas */
+
+.fondo-estatico-2-acciones-colectivas {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-2-acciones-colectivas .ellipse-container {
+  height: 1387px;
+  margin-left: -277px;
+  margin-top: -595px;
+  position: relative;
+  width: 1025px;
+}
+
+.fondo-estatico-2-acciones-colectivas .ellipse-178 {
+  height: 970px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.fondo-estatico-2-acciones-colectivas .ellipse-179 {
+  height: 536px;
+  left: 0;
+  position: absolute;
+  top: 562px;
+  width: 520px;
+}
+
+.fondo-estatico-2-acciones-colectivas .ellipse-180 {
+  height: 485px;
+  left: 42px;
+  position: absolute;
+  top: 902px;
+  width: 568px;
+}
+
+.fondo-estatico-2-acciones-colectivas .ellipse-181 {
+  height: 856px;
+  left: 170px;
+  position: absolute;
+  top: 515px;
+  width: 765px;
+}

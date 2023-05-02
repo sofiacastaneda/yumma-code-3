@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-4-seguimiento */
+
+.fondo-estatico-4-seguimiento {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-4-seguimiento .ellipse-container {
+  height: 1296px;
+  margin-left: -405px;
+  margin-top: -284px;
+  position: relative;
+  width: 1176px;
+}
+
+.fondo-estatico-4-seguimiento .ellipse-182 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 568px;
+}
+
+.fondo-estatico-4-seguimiento .ellipse-191 {
+  height: 970px;
+  left: 206px;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.fondo-estatico-4-seguimiento .ellipse-192 {
+  height: 536px;
+  left: 151px;
+  position: absolute;
+  top: 562px;
+  width: 520px;
+}
+
+.fondo-estatico-4-seguimiento .ellipse-194 {
+  height: 631px;
+  left: 597px;
+  position: absolute;
+  top: 665px;
+  width: 534px;
+}

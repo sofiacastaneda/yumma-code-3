@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-5-canalizacion */
+
+.fondo-estatico-5-canalizacion {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-5-canalizacion .ellipse-container {
+  height: 1526px;
+  margin-left: -277px;
+  margin-top: -595px;
+  position: relative;
+  width: 1025px;
+}
+
+.fondo-estatico-5-canalizacion .ellipse-178 {
+  height: 970px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.fondo-estatico-5-canalizacion .ellipse-179 {
+  height: 763px;
+  left: 0;
+  position: absolute;
+  top: 562px;
+  width: 741px;
+}
+
+.fondo-estatico-5-canalizacion .ellipse-180 {
+  height: 485px;
+  left: 127px;
+  position: absolute;
+  top: 1041px;
+  width: 568px;
+}
+
+.fondo-estatico-5-canalizacion .ellipse-181 {
+  height: 631px;
+  left: 446px;
+  position: absolute;
+  top: 665px;
+  width: 534px;
+}

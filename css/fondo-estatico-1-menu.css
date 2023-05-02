@@ -1,0 +1,51 @@
+/* screen - fondo-estatico-1-menu */
+
+.fondo-estatico-1-menu {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.fondo-estatico-1-menu .ellipse-container {
+  height: 1067px;
+  margin-left: -237px;
+  margin-top: -138.0px;
+  position: relative;
+  width: 919px;
+}
+
+.fondo-estatico-1-menu .ellipse-178 {
+  height: 910px;
+  left: 0;
+  position: absolute;
+  top: 157px;
+  width: 919px;
+}
+
+.fondo-estatico-1-menu .ellipse-179 {
+  height: 535px;
+  left: 297px;
+  position: absolute;
+  top: 268px;
+  width: 557px;
+}
+
+.fondo-estatico-1-menu .ellipse-180 {
+  height: 687px;
+  left: 0;
+  position: absolute;
+  top: 105px;
+  width: 654px;
+}
+
+.fondo-estatico-1-menu .ellipse-181 {
+  height: 637px;
+  left: 324px;
+  position: absolute;
+  top: 0;
+  width: 558px;
+}

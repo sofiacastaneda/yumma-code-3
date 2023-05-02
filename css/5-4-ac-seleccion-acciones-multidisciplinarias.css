@@ -1,0 +1,322 @@
+/* screen - 5-4-ac-seleccion-acciones-multidisciplinarias */
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 640px;
+  padding: 0 17px;
+  width: 360px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex-col {
+  flex-direction: column;
+  margin-top: -33px;
+  min-height: 286px;
+  width: 321px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex-row {
+  gap: 71px;
+  min-width: 321px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group11 {
+  background-color: var(--white);
+  border-radius: 29px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 87px;
+  min-width: 96px;
+  padding: 20px 2px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .men {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  text-align: center;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .acciones-colectivas {
+  color: var(--black);
+  font-family: var(--font-family-calibri-bold);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 31.0px;
+  min-height: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .nmero-de-asistentes {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  margin-top: 52px;
+  min-height: 25px;
+  text-align: center;
+  white-space: nowrap;
+  width: 255px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .field {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10.86px;
+  display: flex;
+  gap: 1px;
+  height: 43px;
+  margin-right: 5.0px;
+  margin-top: 16px;
+  overflow: hidden;
+  padding: 11.3px 14.5px;
+  width: 66px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .text {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 22px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .cursor {
+  align-self: center;
+  height: 14px;
+  width: 1px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 143px;
+  height: 39px;
+  margin-right: 19.53px;
+  margin-top: 24px;
+  min-width: 215px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group7 {
+  align-self: flex-end;
+  background-color: var(--blue);
+  border-radius: 18.23px;
+  height: 36px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .group {
+  height: 13px;
+  width: 12px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group {
+  background-color: var(--wintergreen-dream);
+  border-radius: 18.23px;
+  height: 36px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 348px;
+  margin-right: 12.53px;
+  min-width: 281px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  min-height: 348px;
+  width: 205px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 244px;
+  min-width: 190px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container-1 {
+  gap: 119px;
+  min-height: 191px;
+  width: 40px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group10 {
+  background-color: var(--casablanca);
+  border-radius: 18.23px;
+  height: 36px;
+  margin-left: 4px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--blue);
+  border-radius: 18.23px;
+  display: flex;
+  height: 36px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container-2 {
+  align-self: flex-start;
+  gap: 86px;
+  margin-left: 24px;
+  min-height: 161px;
+  width: 49px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-1 {
+  align-self: flex-end;
+  height: 38px;
+  position: relative;
+  width: 38px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .ellipse {
+  background-color: var(--alto);
+  border-radius: 18.23px;
+  height: 36px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-2.62deg);
+  width: 36px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .ellipse-62 {
+  background-color: #4c4c4c;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .group-2 {
+  height: 13px;
+  left: 13px;
+  position: absolute;
+  top: 14px;
+  width: 12px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .ellipse-66 {
+  background-color: var(--casablanca);
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container-3 {
+  margin-bottom: 4.0px;
+  margin-left: 4px;
+  min-height: 182px;
+  width: 73px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .ellipse-64 {
+  background-color: var(--blue);
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group9 {
+  align-self: center;
+  background-color: var(--plum);
+  border-radius: 18.23px;
+  height: 36px;
+  margin-left: 11.51px;
+  margin-top: 38px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group8 {
+  background-color: var(--plum);
+  border-radius: 18.23px;
+  height: 36px;
+  margin-top: 33px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .button-primary {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--blue-ribbon);
+  border-radius: 11.24px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 37px;
+  overflow: hidden;
+  padding: 8.8px 63.5px;
+  width: 141px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container-4 {
+  margin-top: 22.14px;
+  min-height: 196px;
+  width: 74px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group12 {
+  align-self: flex-end;
+  background-color: var(--casablanca);
+  border-radius: 18.23px;
+  height: 36px;
+  margin-top: 12px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group2 {
+  background-color: var(--plum);
+  border-radius: 18.23px;
+  height: 36px;
+  margin-left: 2px;
+  margin-top: 76px;
+  min-width: 36px;
+  padding: 11.0px 11.8px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .ellipse-1 {
+  border-radius: 18.23px;
+  height: 36px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 36px;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .flex {
+  align-items: center;
+  display: flex;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap {
+  align-items: flex-end;
+  display: flex;
+}
+
+.x5-4-ac-seleccion-acciones-multidisciplinarias .overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,238 @@
+/* screen - x2u463u461-occ-registro-cronico */
+
+.x2u463u461-occ-registro-cronico {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x2u463u461-occ-registro-cronico .overlap-group {
+  height: 1452px;
+  margin-left: -306px;
+  margin-top: -242px;
+  position: relative;
+  width: 1121px;
+}
+
+.x2u463u461-occ-registro-cronico .ellipse-184 {
+  height: 566px;
+  left: 338px;
+  position: absolute;
+  top: 195px;
+  width: 398px;
+}
+
+.x2u463u461-occ-registro-cronico .ellipse-182 {
+  height: 538px;
+  left: 173px;
+  position: absolute;
+  top: 403px;
+  width: 354px;
+}
+
+.x2u463u461-occ-registro-cronico .ellipse-183 {
+  height: 970px;
+  left: 153px;
+  position: absolute;
+  top: 482px;
+  width: 968px;
+}
+
+.x2u463u461-occ-registro-cronico .ellipse-185 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.x2u463u461-occ-registro-cronico .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  left: 422px;
+  overflow: hidden;
+  padding: 7.5px 33.5px;
+  position: absolute;
+  top: 816px;
+  width: 122px;
+}
+
+.x2u463u461-occ-registro-cronico .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 15px;
+}
+
+.x2u463u461-occ-registro-cronico .dropdown-native-off {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 1px 6px 2px #00000033;
+  display: flex;
+  height: 22px;
+  left: 472px;
+  overflow: hidden;
+  padding: 0 6px;
+  position: absolute;
+  top: 412px;
+  width: 135px;
+}
+
+.x2u463u461-occ-registro-cronico .title {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.x2u463u461-occ-registro-cronico .dropdown-native-off-1 {
+  height: 22px;
+  left: 472px;
+  top: 743px;
+  width: 135px;
+}
+
+.x2u463u461-occ-registro-cronico .dropdown-native-off-2 {
+  height: 22px;
+  left: 471px;
+  top: 562px;
+  width: 136px;
+}
+
+.x2u463u461-occ-registro-cronico .list-item {
+  height: 41px;
+  left: 342px;
+  position: absolute;
+  top: 653px;
+  width: 62px;
+}
+
+.x2u463u461-occ-registro-cronico .list-item-1 {
+  left: 411px;
+  top: 654px;
+}
+
+.x2u463u461-occ-registro-cronico .list-item-2 {
+  left: 488px;
+  top: 653px;
+}
+
+.x2u463u461-occ-registro-cronico .list-item-3 {
+  left: 566px;
+  top: 653px;
+}
+
+.x2u463u461-occ-registro-cronico .grupo-etario {
+  left: 342px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 484px;
+  width: 296px;
+}
+
+.x2u463u461-occ-registro-cronico .dropdown-native-off-3 {
+  height: 22px;
+  left: 472px;
+  top: 485px;
+  width: 135px;
+}
+
+.x2u463u461-occ-registro-cronico .nacionalidad {
+  left: 342px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 339px;
+  width: 296px;
+}
+
+.x2u463u461-occ-registro-cronico .dropdown-native-off-4 {
+  height: 20px;
+  left: 469px;
+  top: 340px;
+  width: 138px;
+}
+
+.x2u463u461-occ-registro-cronico .title-1 {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.x2u463u461-occ-registro-cronico .place {
+  left: 489px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 273px;
+  width: 182px;
+}
+
+.x2u463u461-occ-registro-cronico .rectangle-172 {
+  background-color: var(--white);
+  border-radius: 29px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 87px;
+  left: 328px;
+  position: absolute;
+  top: 209px;
+  width: 96px;
+}
+
+.x2u463u461-occ-registro-cronico .men {
+  left: 330px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 257px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x2u463u461-occ-registro-cronico .group-92 {
+  top: 339px;
+}
+
+.x2u463u461-occ-registro-cronico .group-93 {
+  top: 412px;
+}
+
+.x2u463u461-occ-registro-cronico .group-94 {
+  top: 484px;
+}
+
+.x2u463u461-occ-registro-cronico .group-95 {
+  top: 562px;
+}
+
+.x2u463u461-occ-registro-cronico .group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 22px;
+  left: 615px;
+  min-width: 22px;
+  padding: 7.3px 5.5px;
+  position: absolute;
+}
+
+.x2u463u461-occ-registro-cronico .list-item-4 {
+  height: 41px;
+  position: absolute;
+  width: 71px;
+}

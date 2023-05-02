@@ -1,0 +1,134 @@
+/* screen - 5-2-ac-ubicacion */
+
+.x5-2-ac-ubicacion {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x5-2-ac-ubicacion .overlap-group {
+  height: 1387px;
+  margin-left: -277px;
+  margin-top: -595.0px;
+  position: relative;
+  width: 1025px;
+}
+
+.x5-2-ac-ubicacion .ellipse-178 {
+  height: 970px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.x5-2-ac-ubicacion .ellipse-179 {
+  height: 536px;
+  left: 0;
+  position: absolute;
+  top: 562px;
+  width: 520px;
+}
+
+.x5-2-ac-ubicacion .ellipse-180 {
+  height: 485px;
+  left: 42px;
+  position: absolute;
+  top: 902px;
+  width: 568px;
+}
+
+.x5-2-ac-ubicacion .ellipse-181 {
+  height: 856px;
+  left: 170px;
+  position: absolute;
+  top: 515px;
+  width: 765px;
+}
+
+.x5-2-ac-ubicacion .rectangle-113 {
+  border-radius: 11.39px;
+  height: 101px;
+  left: 356px;
+  top: 844px;
+  width: 211px;
+}
+
+.x5-2-ac-ubicacion .en-el-kilombo {
+  left: 402px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 865px;
+  width: 119px;
+}
+
+.x5-2-ac-ubicacion .rectangle-169 {
+  border-radius: 11.39px;
+  height: 101px;
+  left: 356px;
+  top: 981px;
+  width: 211px;
+}
+
+.x5-2-ac-ubicacion .afuera-del-kilombo {
+  height: 68px;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 997px;
+  width: 155px;
+}
+
+.x5-2-ac-ubicacion .seleccione-su-ubicacin {
+  left: 381px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 736px;
+  width: 159px;
+}
+
+.x5-2-ac-ubicacion .rectangle-172 {
+  border-radius: 29px;
+  height: 87px;
+  left: 299px;
+  top: 562px;
+  width: 96px;
+}
+
+.x5-2-ac-ubicacion .men {
+  left: 301px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 610px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.x5-2-ac-ubicacion .acciones-colectivas {
+  left: 457px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 613px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.x5-2-ac-ubicacion .rectangle {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  position: absolute;
+}
