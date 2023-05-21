@@ -41,7 +41,7 @@
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 522px;
+  top: 500px;
   width: 176px;
 }
 
@@ -58,6 +58,7 @@
   min-height: 30px;
   min-width: 133px;
   text-align: center;
+  margin-top: 120px;
 }
 
 .x0-3-login-2-confirmacion-visual .overlap-group2 {
@@ -99,7 +100,7 @@
   overflow: hidden;
   padding: 8.2px 67px;
   position: absolute;
-  top: 167px;
+  top: 140px;
   width: 175px;
 }
 
@@ -107,6 +108,7 @@
   letter-spacing: 0;
   line-height: normal;
   min-height: 20px;
+  top: -20px;
 }
 
 .x0-3-login-2-confirmacion-visual .mesa-de-trabajo-12x-1 {
@@ -116,6 +118,7 @@
   position: absolute;
   top: 0;
   width: 145px;
+  margin-top: 0px;
 }
 
 .x0-3-login-2-confirmacion-visual .ellipse {
