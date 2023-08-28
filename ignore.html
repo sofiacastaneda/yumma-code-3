@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/2-2-3-anc-registro-infante.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <div class="col-md-4 mx-auto">
+    <div class="card">
+        <div class="card-header">
+            <h1>Nuevo seguimiento - Ancestral - Criatura</h1>
+        </div>
+        <div class="card-body">
+            <form action="/seguimiento/new-seguimiento-anc-cri" method="post">
+                <div class="form-group">
+                    <select name="tipoDocumento" class="form-control" required>
+                        <option value="" hidden>Tipo de identificacion</option>
+                        <option value="nuip">NUIP</option>
+                        <option value="cc">Cedula de ciudadania</option>
+                        <option value="ce">Cedula de extranjeria</option>
+                        <option value="pasaporte">Pasaporte</option>
+                        <option value="pep">Permiso especial de permanencia</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <input type="text" name="numeroDocumento" class="form-control" placeholder="Numero Documento"
+                        autofocus required>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le enchumbó el ombligo a la criatura hoy?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="enchumboOmbligo" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="enchumboOmbligo" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Se le balanceó el peso a pulso a la criatura hoy?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="balanceoPeso" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="balanceoPeso" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le enseñó la posicion de amamantar a la criatura a la madre hoy?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="pocisionAmamantar" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="pocisionAmamantar" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le enseñó la posicion de dormir de la criatura a la madre hoy?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="pocisionDormir" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="pocisionDormir" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le ofrecio a la madre consejos ancestrales hoy?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="consejosAncestrales" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="consejosAncestrales" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        Le reviso el popo y ropa serenada hoy a la criatura?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="revisoPopo" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="revisoPopo" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿La criatura esta comiendo bien en general?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="comiendoBien" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="comiendoBien" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿La criatura tiene cólicos?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="tieneColicos" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="tieneColicos" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Tiene la criatura mal de ojo?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="malOjo" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="malOjo" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Tiene la criatura parasitos?
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="parasitos" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="parasitos" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le dio a la criatura bebedizos hoy? 
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="leDioBebedizos" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="leDioBebedizos" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="ratio-container">
+                    <p class="calibri-bold-white-16px">
+                        ¿Le dio a la criatura ungüentos hoy?  
+                    </p>
+                    <label class="boton-ratio">
+                        <input type="radio" name="leDioUnguentos" class="boton-ratio" value="true" required>
+                        <span>Sí</span>
+                    </label>
+                    <label class="boton-ratio">
+                        <input type="radio" name="leDioUnguentos" class="boton-ratio" value="false">
+                        <span>No</span>
+                    </label>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary btn-block" type="submit">
+                        Guardar
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+  </body>
+</html>
