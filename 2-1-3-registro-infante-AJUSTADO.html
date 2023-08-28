@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+    }
+    .card-container {
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      height: 100%;
+    }
+    .card {
+      background-image: url('Fondos yumma png/FONDO ESTÁTICO 4 - SEGUIMIENTOfondo.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: repeat;
+      width: 360px;
+      height: 640px;
+    }
+    .card-title{
+        color: #FFF;
+        text-align: center;
+        font-family: Calibri;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-bottom: 20px;
+    }
+
+    .caja{
+        border-radius: 10.862px;
+        border: 0.6px solid #979797;
+        background: #FFF;
+        margin-bottom: 25px;
+    }
+
+    .botonregistro{
+      display: flex;
+      width: 141.063px;
+      height: 37px;
+      padding: 13.875px 18.5px;
+      justify-content: center;
+      align-items: center;
+      gap: 9.25px;
+      flex-shrink: 0;
+      border-radius: 11.239px;
+      background: #006FFD;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+      margin-left: 60px;
+    }
+
+    .imgsegadj{
+      width: 95px;
+    }
+
+    .espaciado-card{
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+  </style>
+  <title>Registro preñada ajustada</title>
+</head>
+<body>
+  <div class="container card-container">
+    <div class="card text-center">
+      <div class="card-body3 espaciado-card">
+        <h5 class="card-title">¿Cuál es el número de personas que cuidan a la criatura?</h5>
+        <input type="text" class="form-control mb-3 caja" placeholder="Ingrese un número">
+        <h5 class="card-title">¿Cuántas personas trabajan en su casa?</h5>
+        <input type="text" class="form-control mb-3 caja" placeholder="Ingrese un número">
+        <img src="img-nuevo-seguimiento/bebe.png" alt="Placeholder Image" class="img-fluid mb-3 imgsegadj">
+        <button class="btn btn-primary botonregistro">Finalizar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
